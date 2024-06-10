@@ -1,6 +1,6 @@
 <h2 align="center">¡Hola! <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/waving-hand.png" alt="Waving Hand" width="32" height="32" /></h2>
 
-# Bienvenido a **UX Corp Rangel**
+# Bienvenido a *UX Corp Rangel*
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/172313798?s=300" alt="UX Corp Rangel" />
