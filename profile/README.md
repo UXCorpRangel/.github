@@ -1,3 +1,5 @@
+<div align="center"><img src="https://img.shields.io/github/last-commit/UXCorpRangel/.github-private?label=Updated&style=flat" alt="badge last commit" /></div>
+
 <h2 align="center">¡Hola! <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/waving-hand.png" alt="Waving Hand" width="32" height="32" /></h2>
 
 # Bienvenido a *UX Corp Rangel*
