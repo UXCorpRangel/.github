@@ -1,4 +1,4 @@
-<h2 align="center">¡Hola! <img src="./assets/waving-hand.png" alt="Waving Hand" width="32" height="32" /></h2>
+<h2 align="center">¡Hola! <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/waving-hand.png" alt="Waving Hand" width="32" height="32" /></h2>
 
 # Bienvenido a **UX Corp Rangel**
 
@@ -10,7 +10,7 @@ Donde _Diseñadores_ y _Desarrolladores_ se unen para ganar experiencias y conoc
 
 ## 📌 **Nuestros Proyectos**
 
-<div align="center"><img src="./assets/dotted-line-face.png" alt="Dotted Line Face" /></div>
+<div align="center"><img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/dotted-line-face.png" alt="Dotted Line Face" /></div>
 
 Aún no tenemos proyectos, pero estamos trabajando en ello. Si quieres unirte a nosotros, no dudes en hacerlo. ¡Estamos ansiosos por conocerte!
 
@@ -35,9 +35,9 @@ Aún no tenemos proyectos, pero estamos trabajando en ello. Si quieres unirte a 
     </td>
   </tr>
   <tr>
-    <td align="center">Ana Rangel <img src="./assets/venezuela.png" width="16" /></td>
-    <td align="center">Ricardo Cuauro <img src="./assets/venezuela.png" width="16" /></td>
-    <td align="center">Felix Icaza <img src="./assets/nicaragua.png" width="16" /></td>
+    <td align="center">Ana Rangel <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/venezuela.png" width="16" /></td>
+    <td align="center">Ricardo Cuauro <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/venezuela.png" width="16" /></td>
+    <td align="center">Felix Icaza <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/nicaragua.png" width="16" /></td>
   </tr>
   <tr>
     <td align="center">UX<br/>Streamer<br/>The Big Boss</td>
@@ -70,8 +70,8 @@ Aún no tenemos proyectos, pero estamos trabajando en ello. Si quieres unirte a 
     </td>
   </tr>
   <tr>
-    <td align="center">Omar Aguirre <img src="./assets/mexico.png" width="16" /></td>
-    <td align="center">Jaime Gutiérrez <img src="./assets/cuba.png" width="16" /></td>
+    <td align="center">Omar Aguirre <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/mexico.png" width="16" /></td>
+    <td align="center">Jaime Gutiérrez <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/cuba.png" width="16" /></td>
   </tr>
   <tr>
     <td align="center">Dev<br/>Hot Sexy Dev</td>
