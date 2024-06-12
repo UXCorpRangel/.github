@@ -65,6 +65,11 @@ Aún no tenemos proyectos, pero estamos trabajando en ello. Si quieres unirte a 
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/Alais29">
+         <img src="https://avatars.githubusercontent.com/u/28829550" width="140" />
+       </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/omaaraguirre">
          <img src="https://github.com/omaaraguirre.png" width="140" />
        </a>
@@ -76,18 +81,22 @@ Aún no tenemos proyectos, pero estamos trabajando en ello. Si quieres unirte a 
     </td>
   </tr>
   <tr>
+    <td align="center">Alfonsina Lizardo <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/venezuela.png" width="16" /></td>
     <td align="center">Omar Aguirre <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/mexico.png" width="16" /></td>
     <td align="center">Jaime Gutiérrez <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/cuba.png" width="16" /></td>
   </tr>
   <tr>
+    <td align="center">Dev<br/>Doctora</td>
     <td align="center">Dev<br/>Hot Sexy Dev</td>
     <td align="center">Dev<br/>Creative Lead</td>
   </tr>
   <tr>
+    <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Alais29?style=social"></td>
     <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/omaaraguirre?style=social"></td>
     <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jagcruz?style=social"></td>
   </tr>
   <tr>
+    <td align="center"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Alais29?style=social"></td>
     <td align="center"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/omaaraguirre?style=social"></td>
     <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/stars/jagcruz?style=social"></td>
   </tr>
