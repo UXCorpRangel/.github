@@ -5,7 +5,7 @@
 # Bienvenido a *UX Corp Rangel*
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/172313798?s=300" alt="UX Corp Rangel" />
+<img src="https://github.com/UXCorpRangel/.github-private/assets/84311660/9bf7633b-f829-4a86-98ee-606f09905a61" alt="UX Corp Rangel" />
 </div>
 
 Donde _Diseñadores_ y _Desarrolladores_ se unen para ganar experiencias y conocimientos mientras crean proyectos increíbles. Crecemos juntos, aprendemos juntos y nos divertimos juntos. Para saber más sobre nosotros, visita nuestro [Discord](https://discord.com/invite/6rfgHETy).
