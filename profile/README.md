@@ -11,7 +11,7 @@
 UXCorpRangel es liderada por Ana Rangel, conocida en Twitch como [UXAnaRangel](https://twitch.tv/uxanarangel). Ana es una apasionada streamer y experta en UX/UI con años de experiencia en el campo. Su visión es crear una comunidad donde  _diseñadores_ y _desarrolladores_ se unen para ganar experiencias y conocimientos mientras crean proyectos increíbles. Crecemos juntos, aprendemos juntos y nos divertimos juntos.
 
 > [!IMPORTANT]
-> *"One of the things I've been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other — spend time on a regular basis reading each other's code."*
+> *"One of the things I've been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other — spend time on a regular basis reading each other's code."* Douglas Crockford
 
 ## 💫 Nuestra Misión
 
