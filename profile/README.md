@@ -1,26 +1,45 @@
-<div align="center"><img src="https://img.shields.io/github/last-commit/UXCorpRangel/.github?label=Updated&style=flat" alt="badge last commit" /></div>
-
-<h2 align="center">¡Hola! <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/waving-hand.png" alt="Waving Hand" width="32" height="32" /></h2>
-
-# Bienvenido a *UX Corp Rangel*
-
 <div align="center">
 <img src="https://github.com/UXCorpRangel/.github/assets/33694882/9f2986af-3657-4013-9405-1e36f10635bf" alt="UX Corp Rangel" />
 </div>
 
-Donde _Diseñadores_ y _Desarrolladores_ se unen para ganar experiencias y conocimientos mientras crean proyectos increíbles. Crecemos juntos, aprendemos juntos y nos divertimos juntos. Para saber más sobre nosotros, visita nuestro [Discord](https://discord.com/invite/6rfgHETy).
+# UXCorpRangel
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+¡Hola! Bienvenidos a UXCorpRangel, una comunidad vibrante de diseñadores y desarrolladores que colaboran en proyectos de código abierto.
 
-## 📌 **Nuestros Proyectos**
+## ⭐ Sobre Nosotros
 
-<div align="center"><img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/dotted-line-face.png" alt="Dotted Line Face" /></div>
+UXCorpRangel es liderada por Ana Rangel, conocida en Twitch como [UXAnaRangel](https://twitch.tv/uxanarangel). Ana es una apasionada streamer y experta en UX/UI con años de experiencia en el campo. Su visión es crear una comunidad donde  _diseñadores_ y _desarrolladores_ se unen para ganar experiencias y conocimientos mientras crean proyectos increíbles. Crecemos juntos, aprendemos juntos y nos divertimos juntos.
 
-Aún no tenemos proyectos, pero estamos trabajando en ello. Si quieres unirte a nosotros, no dudes en hacerlo. ¡Estamos ansiosos por conocerte!
+> [!IMPORTANT]
+> *"One of the things I've been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other — spend time on a regular basis reading each other's code."*
 
-## 📌 **Nuestro Equipo**
+## 💫 Nuestra Misión
+
+- **Colaboración:** Fomentar un ambiente de colaboración donde las ideas pueden ser compartidas libremente.
+- **Educación:** Proveer recursos y oportunidades de aprendizaje para todos los miembros de la comunidad.
+- **Inclusividad:** Crear un espacio inclusivo donde todos se sientan bienvenidos y valorados.
+
+## 🚧 Nuestros Proyectos
+
+- **🦄 Ana unicorn card's:** Este proyecto busca recompensar a los suscriptores y donadores de suscripciones en el canal de Twitch de Ana con cartas de unicornios coleccionables.
+
+## 🧑🏻‍🧑🏻‍🧒🏻 Únete a Nosotros
+
+Estamos siempre abiertos a personas apasionadas por el diseño y desarrollo. Si estás interesado en unirte a nuestra comunidad, sigue estos pasos:
+
+1. **Sigue a Ana en Twitch:** [UXAnaRangel](https://twitch.tv/uxanarangel) para mantenerte al día con los proyectos y streams.
+2. **Únete a nuestro Discord:** [Enlace al servidor de Discord](https://discord.gg/GBGPSQaKRf) para participar en discusiones y colaborar en proyectos.
+3. **Contribuye en GitHub:** Explora nuestros repositorios y comienza a contribuir. ¡Todas las habilidades son bienvenidas!
+
+## 💻 Cómo Contribuir
+
+Estamos abiertos a contribuciones de todos los niveles. Aquí hay algunas formas en las que puedes involucrarte:
+
+- **Reportar problemas:** Si encuentras un bug o tienes una sugerencia, no dudes en abrir un issue.
+- **Proponer mejoras:** Si tienes una idea para mejorar alguno de nuestros proyectos, abre una discusión o un pull request.
+- **Escribir documentación:** Ayuda a mejorar la documentación para que sea clara y útil para todos.
+
+## 🙋🏻 Nuestro Equipo
 
 <table align="center">
   <tr>
@@ -101,3 +120,6 @@ Aún no tenemos proyectos, pero estamos trabajando en ello. Si quieres unirte a 
     <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/stars/jagcruz?style=social"></td>
   </tr>
 </table>
+
+
+<div align="center"><img src="https://img.shields.io/github/last-commit/UXCorpRangel/.github?label=Updated&style=flat" alt="badge last commit" /></div>
