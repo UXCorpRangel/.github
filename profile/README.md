@@ -58,26 +58,35 @@ Estamos abiertos a contribuciones de todos los niveles. Aquí hay algunas formas
          <img src="https://github.com/felixicaza.png" width="140" />
        </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Zyruks">
+         <img src="https://github.com/Zyruks.png" width="140" />
+       </a>
+    </td>
   </tr>
   <tr>
     <td align="center">Ana Rangel <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/venezuela.png" width="16" /></td>
     <td align="center">Ricardo Cuauro <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/venezuela.png" width="16" /></td>
     <td align="center">Felix Icaza <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/nicaragua.png" width="16" /></td>
+    <td align="center">Samuel Llibre-Pillco <img src="https://github.com/UXCorpRangel/.github/blob/main/profile/assets/republica-dominicana.png" width="16" /></td>
   </tr>
   <tr>
     <td align="center">UX<br/>Streamer<br/>The Big Boss</td>
     <td align="center">Dev<br/>Streamer<br/>The Real Boss</td>
     <td align="center">Dev<br/>Moderador<br/>Web Hero</td>
+    <td align="center">Dev<br/>Moderador<br/>Superman</td>
   </tr>
   <tr>
     <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/anarangel?style=social"></td>
     <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/odracirdev?style=social"></td>
     <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/felixicaza?style=social"></td>
+    <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Zyruks?style=social"></td>
   </tr>
   <tr>
     <td align="center"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/anarangel?style=social"></td>
     <td align="center"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/odracirdev?style=social"></td>
     <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/stars/felixicaza?style=social"></td>
+    <td align="center"><img alt="GitHub followers" src="https://img.shields.io/github/stars/Zyruks?style=social"></td>
   </tr>
 </table>
 
