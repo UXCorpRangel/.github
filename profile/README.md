@@ -8,7 +8,7 @@
 
 ## ⭐ Sobre Nosotros
 
-UXCorpRangel es liderada por Ana Rangel, conocida en Twitch como [UXAnaRangel](https://twitch.tv/uxanarangel). Ana es una apasionada streamer y experta en UX/UI con años de experiencia en el campo. Su visión es crear una comunidad donde  _diseñadores_ y _desarrolladores_ se unen para ganar experiencias y conocimientos mientras crean proyectos increíbles. Crecemos juntos, aprendemos juntos y nos divertimos juntos.
+UXCorpRangel es liderada por Ana Rangel, conocida en Twitch como [UXAnaRangel](https://twitch.tv/uxanarangel). Ana es una streamer y experta en UX/UI con años de experiencia en el campo. Su visión es crear una comunidad donde  _diseñadores_ y _desarrolladores_ se unen para ganar experiencias y conocimientos mientras crean proyectos increíbles. Crecemos juntos, aprendemos juntos y nos divertimos juntos.
 
 > [!IMPORTANT]
 > *"One of the things I've been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other — spend time on a regular basis reading each other's code."* Douglas Crockford
@@ -21,11 +21,13 @@ UXCorpRangel es liderada por Ana Rangel, conocida en Twitch como [UXAnaRangel](h
 
 ## 🚧 Nuestros Proyectos
 
-- **🦄 Ana unicorn card's:** Este proyecto busca recompensar a los suscriptores y donadores de suscripciones en el canal de Twitch de Ana con cartas de unicornios coleccionables.
+- **[🦄 Ana unicorn card's](https://github.com/UXCorpRangel/ana-cards-web):** Este proyecto busca recompensar a los suscriptores y donadores de suscripciones en el canal de Twitch de Ana con cartas de unicornios coleccionables.
+- **[🧑🏻‍💻 Portafolios para devs](https://github.com/UXCorpRangel/portfolios-dev):** Gracias al apoyo de muchos desarrolladores de la comunidad Ana logró llevar a cabo el rediseño de su portafolios, por esta razón decidió retribuir esta ayuda diseñando 3 plantillas para portafolios de desarrolladores, las cuales han sido desarrolladas por miembros de la comunidad para que sean fáciles de usar.
+- **⭐ JSConf Chile 2024:** Diseñamos y desarrollamos la web de la JSConf Chile 2024, apoyando así el evento de JavaScript más importante de Chile realizado por una comunidad para otras comunidades e individuos.
 
 ## 🧑🏻‍🧑🏻‍🧒🏻 Únete a Nosotros
 
-Estamos siempre abiertos a personas apasionadas por el diseño y desarrollo. Si estás interesado en unirte a nuestra comunidad, sigue estos pasos:
+Estamos siempre abiertos a personas interesadas por el diseño y desarrollo. Si quieres unirte a nuestra comunidad, sigue estos pasos:
 
 1. **Sigue a Ana en Twitch:** [UXAnaRangel](https://twitch.tv/uxanarangel) para mantenerte al día con los proyectos y streams.
 2. **Únete a nuestro Discord:** [Enlace al servidor de Discord](https://discord.gg/GBGPSQaKRf) para participar en discusiones y colaborar en proyectos.
