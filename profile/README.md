@@ -23,7 +23,7 @@ UXCorpRangel es liderada por Ana Rangel, conocida en Twitch como [UXAnaRangel](h
 
 - **[🦄 Ana unicorn card's](https://github.com/UXCorpRangel/ana-cards-web):** Este proyecto busca recompensar a los suscriptores y donadores de suscripciones en el canal de Twitch de Ana con cartas de unicornios coleccionables.
 - **[🧑🏻‍💻 Portafolios para devs](https://github.com/UXCorpRangel/portfolios-dev):** Gracias al apoyo de muchos desarrolladores de la comunidad Ana logró llevar a cabo el rediseño de su portafolios, por esta razón decidió retribuir esta ayuda diseñando 3 plantillas para portafolios de desarrolladores, las cuales han sido desarrolladas por miembros de la comunidad para que sean fáciles de usar.
-- **⭐ JSConf Chile 2024:** Diseñamos y desarrollamos la web de la JSConf Chile 2024, apoyando así el evento de JavaScript más importante de Chile realizado por una comunidad para otras comunidades e individuos.
+- **[⭐ JSConf Chile 2024](https://github.com/UXCorpRangel/js-conf-cl-2024):** Diseñamos y desarrollamos la web de la JSConf Chile 2024 y "La Previa" de este evento, apoyando así el evento de JavaScript más importante de Chile realizado por una comunidad para otras comunidades e individuos.
 
 ## 🧑🏻‍🧑🏻‍🧒🏻 Únete a Nosotros
 
