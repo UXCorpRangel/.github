@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/UXCorpRangel/.github/assets/33694882/9f2986af-3657-4013-9405-1e36f10635bf" alt="UX Corp Rangel" />
+<img src="https://github.com/user-attachments/assets/cb0b07ea-8bf3-47e9-beff-5413e610e06f" alt="UX Corp Rangel" />
 </div>
 
 # UXCorpRangel
